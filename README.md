@@ -1,4 +1,5 @@
-![I am a Web Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://www.facebook.com/photo/?fbid=621406535672627&set=a.111143576698928&__cft__[0]=AZWDBSLYZj7nAGVzfZa1n6mOE3zt105ONoQ_XEx1s77LtHr-O6YDlSBZ3ro98nyFgEuocUnjYYEkGlk9Me9R9BXiCZKE8HTTN0A_g-a7PjAclGtI0VCdLz_-kZtxVU4XgytZXJxGlig-VsrojoesW6q9a0InbGiBcJ2qGSRYzCJfJQ))
+![I am a Web Developer](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/253253163_621406529005961_3796996768826061832_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=e2zbt0hEhFYQ7kNvgHJXY17&_nc_ht=scontent.fdac24-5.fna&_nc_gid=ACy9N9cnz8cehKxMLoifR1s&oh=00_AYCa8usU4oeCJ5d-Rn0wND3s0xGgBIUIyfTO89iBa-pC9Q&oe=67009F67)
+
 
 ### Hi there 👋, my name is Mehedi Hasan
 #### I am a Web Developer
@@ -23,8 +24,6 @@ Skills: HTML / CSS / Bootstrap / Laravel / MySQL
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=smmehedi4u&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/smmehedi4u/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/smmehedi4u)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=smmehedi4u)  
 
