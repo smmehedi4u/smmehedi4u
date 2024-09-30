@@ -1,5 +1,3 @@
-![I am a Web Developer](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/253253163_621406529005961_3796996768826061832_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=e2zbt0hEhFYQ7kNvgHJXY17&_nc_ht=scontent.fdac24-5.fna&_nc_gid=ACy9N9cnz8cehKxMLoifR1s&oh=00_AYCa8usU4oeCJ5d-Rn0wND3s0xGgBIUIyfTO89iBa-pC9Q&oe=67009F67)
-
 
 ### Hi there 👋, my name is Mehedi Hasan
 #### I am a Web Developer
