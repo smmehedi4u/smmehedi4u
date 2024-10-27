@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Mehedi Hasan
 #### I am a Web Developer
 
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazNjeV9kbkpzTWFHMHhrTnR1eENVbDQwb25jZ3xBQ3Jtc0tsSWhUNDJKNlMyYThkNjl4blFyMEcxNjJQcTJqWUl1U0lrXzRqSE1nSEZoazZ6Q0ZqVURVYVhXdzFZMEhFSFhTZDFYQUl1LW1HV0ZoX2VFbjEzYzRkWVc1M2FXNXEtbDBRYkVwOG50bG5uc1ZRTUFhRQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 I am an intermediate web developer, focus on creating websites using HTML, CSS, Bootstrap, JavaScript, Laravel and MySQL. I am skilled at finding and fixing errors in code. Always aim to write high quality code. Committed to learning more and becoming a better web developer. Finally look forward to working on exciting projects and collaborating well with team members.
 
