@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mehedisarker379@gmail.com**
 
-- ⚡ Fun fact **I think I am Engineer**
+- ⚡ Fun fact **I think I'm an Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
