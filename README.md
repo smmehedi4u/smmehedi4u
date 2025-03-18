@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 🔭 I’m currently working on **Location based crime management system**
+- 🔭 I’m currently working on **Location Based Crime Management System**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **mehedisarker379@gmail.com**
-
-- ⚡ Fun fact **I think I'm an Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
