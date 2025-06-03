@@ -1,8 +1,8 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=monishroy.monishroy" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=smmehedi4u.smmehedi4u" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Monish+Roy;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mehedi+Hasan;" />
 </h1>
 
 <h3 align="center">A passionate Full Stack Web Developer</h3>
@@ -21,7 +21,7 @@ I'm a firm believer in clean, maintainable code and always strive to write code 
 <br/>
  
 <div align="center"> 
-<a href="mailto:monishroy87@gmail.com">
+<a href="mailto:mehedisarker379@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 <a href="https://www.facebook.com/monishroy010">
