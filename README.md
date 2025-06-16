@@ -12,21 +12,21 @@
 <div align="start">
 I'm a web developer focused on crafting clean & user‑friendly experiences. I am passionate about building excellent software that improves the lives of those around me.
 
-<br/><br/>
+<br/>
 
 I have experience working as a Full Stack Developer, primarily using **Laravel (PHP)**, **MySQL**, and **Bootstrap**, to develop dynamic and responsive web applications. I enjoy building both the backend logic and frontend interfaces, turning creative ideas into functional and user-friendly products.
 
-<br/><br/>
+<br/>
 
 I completed my Bachelor's degree in Computer Science, where I also worked on a research project focused on Deep Learning. My undergraduate thesis was published on IEEE with the title:  
 <b>“Adaptive traffic signal control system using object detection based approach”</b>.  
 This research combined my interest in Artificial Intelligence and real-world problem solving.
 
-<br/><br/>
+<br/>
 
 I love using my skills to bring creative ideas to life. I'm always eager to learn more about new technologies and trends in the web development world. I'm a firm believer in clean, maintainable code and always strive to write code that is not only functional, but also easy to read and understand.
 
-<br/><br/>
+<br/>
 
 Thanks for reading!
 </div>
