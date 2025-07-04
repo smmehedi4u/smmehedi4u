@@ -1,9 +1,10 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=smmehedi4u.smmehedi4u" />
 
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=3498DB&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+I'm+Mehedi+Hasan;" alt="Typing SVG" />
-</p>
+</h1>
+
 
 
 <h3 align="center">A passionate Full Stack Web Developer</h3>
