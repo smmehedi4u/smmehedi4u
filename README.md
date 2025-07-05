@@ -11,10 +11,10 @@
 
 <br/>
 
-<div align="start">
+<div align="justify">
 I am a Web Developer focused on crafting clean and user-friendly experiences. I work with technologies such as HTML, CSS, Bootstrap, PHP, Laravel, and MySQL. I also have knowledge of REST APIs and use Git for version control. I have experience working as a Junior Full Stack Web Developer, collaborating in a team to build software solutions for clients and companies.
 
-<br/>
+<br/><br/>
 
 My development journey began with undergraduate software projects and later expanded into research. I worked on a research project focused on Deep Learning, and my undergraduate thesis was published by IEEE under the title: <b>“Adaptive Traffic Signal Control System Using Object Detection Based Approach.”</b> I completed my Bachelor of Science in Computer Science and Engineering in September 2024.
 
