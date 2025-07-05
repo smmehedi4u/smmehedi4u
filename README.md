@@ -12,25 +12,16 @@
 <br/>
 
 <div align="start">
-I'm a web developer focused on crafting clean & user‑friendly experiences. I am passionate about building excellent software that improves the lives of those around me.
+I am a Web Developer focused on crafting clean and user-friendly experiences. I work with technologies such as HTML, CSS, Bootstrap, PHP, Laravel, and MySQL. I also have knowledge of REST APIs and use Git for version control. I have experience working as a Junior Full Stack Web Developer, collaborating in a team to build software solutions for clients and companies.
 
 <br/>
 
-I have experience working as a Full Stack Developer, primarily using **Laravel (PHP)**, **MySQL**, and **Bootstrap**, to develop dynamic and responsive web applications. I enjoy building both the backend logic and frontend interfaces, turning creative ideas into functional and user-friendly products.
+My development journey began with undergraduate software projects and later expanded into research. I worked on a research project focused on Deep Learning, and my undergraduate thesis was published by IEEE under the title: “Adaptive Traffic Signal Control System Using Object Detection Based Approach.” I completed my Bachelor of Science in Computer Science and Engineering in September 2024.
 
 <br/>
 
-I completed my Bachelor's degree in Computer Science, where I also worked on a research project focused on Deep Learning. My undergraduate thesis was published on IEEE with the title:  
-<b>“Adaptive traffic signal control system using object detection based approach”</b>.  
-This research combined my interest in Artificial Intelligence and real-world problem solving.
+Next, I plan to learn new technologies such as React, Next.js, Node.js, and TypeScript. My goal is to integrate AI with software development and contribute to leading the future of technology.
 
-<br/>
-
-I love using my skills to bring creative ideas to life. I'm always eager to learn more about new technologies and trends in the web development world. I'm a firm believer in clean, maintainable code and always strive to write code that is not only functional, but also easy to read and understand.
-
-<br/>
-
-Thanks for reading!
 </div>
 
 <br/>
@@ -52,5 +43,5 @@ Thanks for reading!
  
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,jquery,mysql,vscode,php,github,git,laravel,linux,windows,apple" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,php,laravel,mysql,git,github,linux,apple,vscode,postman" />
 </div>
